@@ -1,4 +1,4 @@
-baseURL = 'http://reanimate.school'
+baseURL = 'https://reanimate.school'
 title = 'RE-Animate Summer School'
 
 theme = 'hugo.386'
@@ -96,11 +96,11 @@ preserveTaxonomyNames = true
     url = "/program/"      
     weight = 10
 
-  [[menu.main]]
-    identifier = "news"
-    name = "News"
-    url = "/news/"       # The path can lead to a content folder too.
-    weight = 20
+  # [[menu.main]]
+  #   identifier = "news"
+  #   name = "News"
+  #   url = "/news/"       # The path can lead to a content folder too.
+  #   weight = 20
 
 [taxonomies]
     tag = "tags"
