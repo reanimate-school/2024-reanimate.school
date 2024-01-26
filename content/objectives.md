@@ -1,5 +1,5 @@
 +++
-title = "Program"
+title = "Objectives"
 date = "2023-10-31"
 author = ""
 +++
