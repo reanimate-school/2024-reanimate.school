@@ -8,7 +8,7 @@ author = ""
 |-------|----------------------------------|----------------------------------------|--------------------------|--------------------------|--------------------------|
 |       | Jun 10                           | Jun 11                                 | Jun 12                   | Jun 13                   | Jun 14                   |
 |  9:00 |                                  |                                        |                          |                          |                          |
-| 10:00 | Registration, Welcome, Breakfast | At LUDOV                               | Breakfast                | Breakfast                | Breakfast                |
+| 10:00 | Registration,<br>Welcome,<br>Breakfast | At LUDOV                               | Breakfast                | Breakfast                | Breakfast                |
 | 11:00 | Jimmy M.                         | Carl<br>(At LUDOV)                     | Cindy                    | Rilla (TAG)              | Industry keynote         |
 | 12:00 |                                  |                                        |                          |                          |                          |
 | 13:00 | Lunch<br>Lightning Talks         | Lunch<br>Lightning Talks               | Lunch<br>Lightning Talks | Lunch<br>Lightning Talks | Lunch<br>Lightning Talks |
