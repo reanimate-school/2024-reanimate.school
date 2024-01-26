@@ -79,7 +79,7 @@ preserveTaxonomyNames = true
     weight = 10          # A number to order the buttons in the navbar
 
   [[menu.main]]
-    identifier = "organizers" 
+    identifier = "organisers" 
     name = "Organisers"       
     url = "/organisers/"      
     weight = 10   
