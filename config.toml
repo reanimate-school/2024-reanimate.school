@@ -1,5 +1,5 @@
 baseURL = 'https://reanimate.school'
-title = 'RE-Animate Summer School'
+title = 'Summer School ReAnimate'
 
 theme = 'hugo.386'
 
@@ -25,16 +25,16 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "RE-Animate Summer School"
+    mainpagetitle = "Summer School ReAnimate"
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "2024 Summer School on Retro Gaming History, Critic, and Development" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "A summer school specifically dedicated to retro gaming, which invites both the humanities and engineering fields to provide unique insights on retro gaming, both theoretical and practical, and opportunities for cross-fertilization among research fields."
+    mainpagedesc = "A summer school dedicated to retro gaming, which invites both humanities and engineering to provide unique insights on retro gaming, both theoretical and practical, and opportunities for cross-fertilization among research fields."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "RE-Animate Summer School"
+    copyrightname = "Summer School ReAnimate"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = ""
