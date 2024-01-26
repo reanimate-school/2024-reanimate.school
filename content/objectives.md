@@ -34,11 +34,3 @@ Participants will have the opportunity to engage with a vibrant community of ret
 
 Participants will gain knowledge, skills, and techniques that can be applied beyond the summer school, including the bases of the history of gaming, critical thinking, and game development. They will have the opportunity to network with peers and industry professionals.
 
----
-
-The target audience includes students, gaming enthusiasts, and individuals interested in (retro) games. 
-
-The summer school will be five days during the Summer of 2024, providing ample time for theoretical learning and hands-on practical activities.
-
-The location of the summer school will be Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-practice computer lab. for the hands-on sessions. The conference room will be ER1072, located on the 10th floor of the ER building at 2155 Guy. The computer lab. will be located in the Hall building, in which all teaching activities take place during the year.
-
