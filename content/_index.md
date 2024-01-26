@@ -2,14 +2,26 @@
 
 +++
 
+# Who?
+
+Researchers, writers, journalists, Students, gaming enthusiasts, and individuals interested in (retro) games. 
+
+# What?
+
+Five days providing ample time for theoretical learning and hands-on practical activities on retro-development.
+
 # Where?
 
-Montréal, QC, Canada
+Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room will be ER1072, located on the 10th floor of the ER building at 2155 Guy. The computer lab. will be located in the Hall building, in which all teaching activities take place during the year.
 
-# When
+# When?
 
 Mon. Jun. 10th to Fri. Jun. 14th (inclusive)
 Overlapping with [Congress 2024](https://www.federationhss.ca/en/congress2024) and just before the conference of the Canadian Game Studies Association (CGSA)
+
+# Why?
+
+Despite becoming mainstream and some recent, popular books, retro gaming remains under-studied in academia and existing research rarely enters mass media.
 
 # How much?
 
