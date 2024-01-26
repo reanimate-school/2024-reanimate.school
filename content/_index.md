@@ -27,6 +27,6 @@ Despite becoming mainstream and some recent, popular books, retro gaming remains
 
 TBA
 
-
-
+<br/>
+<br/>
 <img src="/static/Summer%20school%202024%20wip1.jpg"/>
