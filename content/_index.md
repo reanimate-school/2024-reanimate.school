@@ -26,3 +26,5 @@ Despite becoming mainstream and some recent, popular books, retro gaming remains
 # How much?
 
 TBA
+
+<img src="/static/Summer%20school%202024%20wip1.jpg"/>
