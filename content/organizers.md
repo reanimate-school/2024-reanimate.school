@@ -1,5 +1,5 @@
 +++
-title = "Organizers"
+title = "Organisers"
 description = ""
 date = "2023-10-31"
 aliases = ["organizers","committee"]
