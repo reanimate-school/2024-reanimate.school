@@ -91,9 +91,15 @@ preserveTaxonomyNames = true
     weight = 40        
 
   [[menu.main]]
-    identifier = "program" 
-    name = "Program"       
-    url = "/program/"      
+    identifier = "objectives"
+    name = "Objectives"
+    url = "/objectives/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "program"
+    name = "Program"
+    url = "/program/"
     weight = 10
 
   # [[menu.main]]
