@@ -4,7 +4,7 @@
 
 # Who?
 
-Researchers, writers, journalists, Students, gaming enthusiasts, and individuals interested in (retro) games. 
+Researchers, writers, journalists, Students, gaming enthusiasts, and individuals interested in (retro) games. No previous experience in retro-development is necessary: enthusiasm trumps experience!
 
 # What?
 
