@@ -80,8 +80,8 @@ preserveTaxonomyNames = true
 
   [[menu.main]]
     identifier = "organizers" 
-    name = "Organizers"       
-    url = "/organizers/"      
+    name = "Organisers"       
+    url = "/organisers/"      
     weight = 10   
 
   [[menu.main]]
