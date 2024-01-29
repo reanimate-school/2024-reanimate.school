@@ -31,4 +31,6 @@ Cristiano Politowski is a postdoctoral researcher working with Professor Houari 
 > 
 
 # Gabriel Ullmann
-> 
+> Research professional, Concordia University
+
+Gabriel C. Ullmann is a research support professional at the Next-Generation Cities Institute at Concordia University in Montreal. Currently, he is a member of the development team for CityLayers, a web-enabled smart cities simulation platform. Throughout his Master's program, his research focus centered on Game Engine Architecture, and his thesis involved a comprehensive analysis of notable game engines like Unreal, CryEngine, and Godot. His research interests also include Software Architecture Recovery, Video Game Development, and Artificial Intelligence.
