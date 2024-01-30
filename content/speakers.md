@@ -11,6 +11,8 @@ author = ""
 
 # Alex Custodio
 
+# Chris Gibbs
+
 # Rilla Khaled
 
 # Jimmy Maher
