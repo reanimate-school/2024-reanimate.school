@@ -28,7 +28,9 @@ Cristiano Politowski is a postdoctoral researcher working with Professor Houari 
 
 
 # Nicolas Rousse
-> 
+> Master's student
+
+Nicolas Collins Rousse completed his bachelor degree in Electrical Engineering with a concentration in computer science at École de Technologie Supérieure in Montréal, Québec, Canada in 2018. He is currently pursuing a master’s degree (MASc) in Software Engineering at Concordia university in Montréal. He has been professionally creating embedded control system hardware and software since 2016. He also has great experience in electronic equipment repair including retro computers and gaming systems. His interests and skills include bringing new hardware and software technologies and applications to retro systems.
 
 # Gabriel Ullmann
 > Research professional, Concordia University
