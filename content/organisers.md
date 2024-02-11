@@ -26,9 +26,8 @@ Carl Therrien is a Full Professor in games and film studies at the Université d
 
 Cristiano Politowski is a postdoctoral researcher working with Professor Houari Sahraoui and Professor Michalis Famelis at the GEODES Software Engineering Research Group, part of the Department of Computer Science and Operations Research (DIRO), at Université de Montréal, Montréal, Québec, Canada. Also as a postdoctoral researcher, he worked at École de Technologie Supérieure (ÉTS), working with Professor Ghizlane El Boussaidi on research related to software architecture and software requirements. He completed his Ph.D. in the Department of Computer Science and Software Engineering at Concordia University in 2022. Dr. Politowski received his master's degree in Computer Science from the Universidade de Santa Maria and his undergraduate diploma in Computer Science from the Universidade Regional do Noroeste do Estado do Rio Grande do Sul, both in Brazil. Before joining academia, he gained experience in the industry, particularly in the field of web applications and web server performance.
 
-
 # Nicolas Rousse
-> Master's student
+> Master's student, Concordia University
 
 Nicolas Collins Rousse completed his bachelor degree in Electrical Engineering with a concentration in computer science at École de Technologie Supérieure in Montréal, Québec, Canada in 2018. He is currently pursuing a master’s degree (MASc) in Software Engineering at Concordia university in Montréal. He has been professionally creating embedded control system hardware and software since 2016. He also has great experience in electronic equipment repair including retro computers and gaming systems. His interests and skills include bringing new hardware and software technologies and applications to retro systems.
 
@@ -36,3 +35,8 @@ Nicolas Collins Rousse completed his bachelor degree in Electrical Engineering w
 > Research professional, Concordia University
 
 Gabriel C. Ullmann is a research support professional at the Next-Generation Cities Institute at Concordia University in Montreal. Currently, he is a member of the development team for CityLayers, a web-enabled smart cities simulation platform. Throughout his Master's program, his research focus centered on Game Engine Architecture, and his thesis involved a comprehensive analysis of notable game engines like Unreal, CryEngine, and Godot. His research interests also include Software Architecture Recovery, Video Game Development, and Artificial Intelligence.
+
+# Laurent Voisard
+> Master's student, Concordia University
+
+Laurent Voisard completed his bachelor's degree in Computer Science: Computer Games Co-op program at Concordia University in 2024. He has freshly started his Master's degree (MACs) in Software Engineering at Concordia University. Laurent started his research academic path in the Summer 2023 thanks to a NSERC USRA research award, and published two AR/VR papers since then. Now, Laurent turns to study fundamental systems in video games, specifically looking at his favourite genre: Action-RPGs in the likes of the Diablo series.
