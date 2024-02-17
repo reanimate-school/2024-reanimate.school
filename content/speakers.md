@@ -33,6 +33,8 @@ Frédérick Maheux is a multimedia artist whose main interests are emergent subc
 
 www.frederickmaheux.com / https://deathorgone.itch.io/
 
-# Cindy Poremba 
+# Cindy Poremba
+
+Cindy Poremba, PhD, is a digital media researcher, gamemaker and curator. They are an Associate Professor (Digital Futures) at OCAD University (Tkaronto/Toronto, CA) and Co-Director of OCAD’s game:play Lab. Dr. Poremba has presented internationally at conferences, festivals and invited lectures, on topics relating to game art and curation, capture in postmedia practices, and interactive documentary. Cindy also organizes non-traditional exhibitions as an independent curator. Their award-winning game and “New Arcade” work, independently and as a member of the kokoromi experimental videogame collective, has been featured in both international game and digital art exhibitions.
 
 # Carl Therrien
