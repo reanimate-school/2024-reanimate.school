@@ -13,7 +13,7 @@ John Aycock is a full professor in the Department of Computer Science at the Uni
 
 # Alex Custodio
 
-Alex Custodio is an academic, author, and artist based in Montreal. As a SSHRC-funded PhD student in Concordia University's Humanities program, their research focuses on fan communities, videogame afterlives, and techniques of hardware and software hacking. Their first monograph, Who Are You? Nintendo's Game Boy Advance Platform, is available from the MIT Press. You can find more of their work at alexcustodio.com.
+Alex Custodio is an academic, author, and artist based in Montreal. As a SSHRC-funded PhD student in Concordia University's Humanities program, their research focuses on fan communities, videogame afterlives, and techniques of hardware and software hacking. Their first monograph, Who Are You? Nintendo's Game Boy Advance Platform, is available from the MIT Press. You can find more of their work at [alexcustodio.com](https://www.alexcustodio.com/).
 
 # Chris Gibbs
 
