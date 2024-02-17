@@ -11,6 +11,8 @@ author = ""
 
 # Alex Custodio
 
+Alex Custodio is an academic, author, and artist based in Montreal. As a SSHRC-funded PhD student in Concordia University's Humanities program, their research focuses on fan communities, videogame afterlives, and techniques of hardware and software hacking. Their first monograph, Who Are You? Nintendo's Game Boy Advance Platform, is available from the MIT Press. You can find more of their work at alexcustodio.com.
+
 # Chris Gibbs
 
 Chris graduated in 1988 with a BSc in Software Engineering and co-founded a video-game development studio, Attention To Detail, creating games for publishers around the world. Over the course of 15 years the studio grew to 100+ employees and released games across all genres and on all platforms. In 2013 Chris joined Electronic Arts to run their Manchester Studio and brought Battlefield from the PC into the PS2 and Xbox. Over a 10-year period Chris was responsible for studios in London, Bucharest, Hyderabad and finally Montreal, with a major focus on mobile gaming, all the while honing a deep understanding of designing software with the end-user at the heart of the process.
