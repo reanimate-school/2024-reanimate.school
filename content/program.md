@@ -9,7 +9,6 @@ author = ""
 |---:|:---:|:---:|:---:|:---:|:---:|
 |  | Jun 10 | Jun 11 | Jun 12 | Jun 13 | Jun 14 |
 | 9:00 |  |  |  |  |  |
-|---|---|---|---|---|---|
 | 10:00 | Registration, Welcome, Breakfast | At LUDOV | Breakfast | Breakfast | Breakfast |
 | 11:00 | Jimmy M. | Carl (At LUDOV) | Cindy | Rilla (TAG) | Industry keynote |
 | 12:00 |  |  |  |  |  |
