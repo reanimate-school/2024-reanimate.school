@@ -7,6 +7,8 @@ author = ""
 
 # John Aycock
 
+John Aycock is a full professor in the Department of Computer Science at the University of Calgary, Canada. In collaboration with archaeologists, game historians, and others, he researches the implementation of old computer games. He has published two books on the topic (Retrogame Archaeology: Exploring Old Computer Games, 2016; Amnesia Remembered: Reverse Engineering a Digital Artifact, 2023) in addition to numerous journal and conference publications.
+
 # Charlotte Courtois
 
 # Alex Custodio
