@@ -23,6 +23,10 @@ Overlapping with [Congress 2024](https://www.federationhss.ca/en/congress2024) a
 
 Despite becoming mainstream and some recent, popular books, retro gaming remains under-studied in academia and existing research rarely enters mass media.
 
+# How?
+
+Please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 words max) and possibly 1-2 sentences about your interests.
+
 # How much?
 
 TBA
