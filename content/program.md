@@ -4,6 +4,8 @@ date = "2024-01-26"
 author = ""
 +++
 
+Day-by-day:
+
 | Jun. 10 | Monday |
 |---:|:---|
 | 09:00 - 10:00 | Registration, Welcome, Breakfast |
@@ -12,6 +14,8 @@ author = ""
 | 14:00 - 15:30 | Alex (Nintendo Mod) |
 | 15:45 - 17:15 | Chris |
 | 17:15 - 19:00 | Champioship |
+
+
 
 | Jun. 11 | Tuesday |
 |---:|:---|
@@ -22,6 +26,8 @@ author = ""
 | 15:45 - 17:15 | Game Jam |
 | 17:15 - 19:00 | Champioship |
 
+
+
 | Jun. 12 | Wednesday |
 |---:|:---|
 | 09:00 - 10:00 | Breakfast |
@@ -31,6 +37,8 @@ author = ""
 | 15:45 - 17:15 | Game Jam |
 | 17:15 - 19:00 | Champioship |
 
+
+
 | Jun. 13 | Thursday |
 |---:|:---|
 | 09:00 - 10:00 | Breakfast |
@@ -39,6 +47,8 @@ author = ""
 | 14:00 - 15:30 | Game Jam |
 | 15:45 - 17:15 | Game Jam |
 | 17:15 - 19:00 | Champioship |
+
+
 
 | Jun. 14 | Friday |
 |---:|:---|
