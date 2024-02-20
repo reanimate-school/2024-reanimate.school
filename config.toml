@@ -85,21 +85,9 @@ preserveTaxonomyNames = true
     weight = 10   
 
   [[menu.main]]
-    identifier = "contact" 
-    name = "Contact"       
-    url = "/contact/"      
-    weight = 40        
-
-  [[menu.main]]
     identifier = "objectives"
     name = "Objectives"
     url = "/objectives/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "program"
-    name = "Program"
-    url = "/program/"
     weight = 10
 
   [[menu.main]]
@@ -107,6 +95,24 @@ preserveTaxonomyNames = true
     name = "Speakers"
     url = "/speakers/"
     weight = 10
+
+  [[menu.main]]
+    identifier = "sponsors"
+    name = "Sponsors"
+    url = "/sponsors/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "program"
+    name = "Program"
+    url = "/program/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "contact" 
+    name = "Contact"       
+    url = "/contact/"      
+    weight = 40        
 
   # [[menu.main]]
   #   identifier = "news"
