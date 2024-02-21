@@ -10,56 +10,60 @@ author = ""
 
 | Jun. 10 | Monday |
 |---:|:---|
-| 09:00 - 10:00 | Registration, Welcome, Breakfast |
-| 10:00 - 11:30 | Jimmy M. |
-| 12:00 - 14:00 | Lunch + Lightning Talks |
-| 14:00 - 15:30 | Alex (Nintendo Mod) |
-| 15:45 - 17:15 | Chris |
-| 17:15 - 19:00 | Champioship |
+| 09:00 - 10:00 | &nbsp; Registration, Welcome, Breakfast |
+| 10:00 - 11:30 | &nbsp; Jimmy M. |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 14:00 - 15:30 | &nbsp; Alex (Nintendo Mod) |
+| 15:45 - 17:15 | &nbsp; Chris |
+| 17:15 - 19:00 | &nbsp; Champioship |
 
 ## Tuesday
 
 | Jun. 11 | Tuesday |
 |---:|:---|
-| 09:00 - 10:00 | Breakfast (at LUDOV) |
-| 10:00 - 11:30 | Carl (at LUDOV) |
-| 12:00 - 14:00 | Lunch + Lightning Talks |
-| 14:00 - 15:30 | Charlotte, Frederick (Retro Design) |
-| 15:45 - 17:15 | Game Jam |
-| 17:15 - 19:00 | Champioship |
+| 09:00 - 10:00 | &nbsp; Breakfast (at LUDOV) |
+| 10:00 - 11:30 | &nbsp; Carl (at LUDOV) |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 14:00 - 15:30 | &nbsp; Charlotte, Frederick (Retro Design) |
+| 15:45 - 17:15 | &nbsp; Game Jam |
+| 17:15 - 19:00 | &nbsp; Champioship |
 
 ## Wednesday
 
 | Jun. 12 | Wednesday |
 |---:|:---|
-| 09:00 - 10:00 | Breakfast |
-| 10:00 - 11:30 | Cindy |
-| 12:00 - 14:00 | Lunch + Lightning Talks |
-| 14:00 - 15:30 | John A. |
-| 15:45 - 17:15 | Game Jam |
-| 17:15 - 19:00 | Champioship |
+| 09:00 - 10:00 | &nbsp; Breakfast |
+| 10:00 - 11:30 | &nbsp; Cindy |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 14:00 - 15:30 | &nbsp; John A. |
+| 15:45 - 17:15 | &nbsp; Game Jam |
+| 17:15 - 19:00 | &nbsp; Champioship |
 
 ## Thursday
 
 | Jun. 13 | Thursday |
 |---:|:---|
-| 09:00 - 10:00 | Breakfast |
-| 10:00 - 11:30 | Rilla (at TAG) |
-| 12:00 - 14:00 | Lunch + Lightning Talks |
-| 14:00 - 15:30 | Game Jam |
-| 15:45 - 17:15 | Game Jam |
-| 17:15 - 19:00 | Champioship |
+| 09:00 - 10:00 | &nbsp; Breakfast |
+| 10:00 - 11:30 | &nbsp; Rilla (at TAG) |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 14:00 - 15:30 | &nbsp; Game Jam |
+| 15:45 - 17:15 | &nbsp; Game Jam |
+| 17:15 - 19:00 | &nbsp; Champioship |
 
 ## Friday
 
 | Jun. 14 | Friday |
 |---:|:---|
-| 09:00 - 10:00 | Breakfast |
-| 10:00 - 11:30 | Industry Keynote |
-| 12:00 - 14:00 | Lunch + Lightning Talks |
-| 14:00 - 15:30 | Game Jam Highlights |
-| 15:45 - 16:45 | Closing |
-| 16:45 - 19:00 | Social (At Arcade MTL) |
+| 09:00 - 10:00 | &nbsp; Breakfast |
+| 10:00 - 11:30 | &nbsp; Industry Keynote |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 14:00 - 15:30 | &nbsp; Game Jam Highlights |
+| 15:45 - 16:45 | &nbsp; Closing |
+| 16:45 - 19:00 | &nbsp; Social (At Arcade MTL) |
+
+
+
+---
 
 # Bird-eye View
 
