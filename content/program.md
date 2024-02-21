@@ -63,8 +63,6 @@ author = ""
 
 
 
----
-
 # Bird-eye View
 
 |  | Monday | Tuesday | Wednesday | Thursday | Friday |
