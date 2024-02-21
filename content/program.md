@@ -4,9 +4,7 @@ date = "2024-01-26"
 author = ""
 +++
 
-# Day-by-Day
-
-## Monday
+# Monday
 
 | Jun. 10 | Monday |
 |---:|:---|
@@ -17,7 +15,7 @@ author = ""
 | 15:45 - 17:15 | &nbsp; Chris |
 | 17:15 - 19:00 | &nbsp; Champioship |
 
-## Tuesday
+# Tuesday
 
 | Jun. 11 | Tuesday |
 |---:|:---|
@@ -28,7 +26,7 @@ author = ""
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Champioship |
 
-## Wednesday
+# Wednesday
 
 | Jun. 12 | Wednesday |
 |---:|:---|
@@ -39,7 +37,7 @@ author = ""
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Champioship |
 
-## Thursday
+# Thursday
 
 | Jun. 13 | Thursday |
 |---:|:---|
@@ -50,7 +48,7 @@ author = ""
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Champioship |
 
-## Friday
+# Friday
 
 | Jun. 14 | Friday |
 |---:|:---|
@@ -60,8 +58,6 @@ author = ""
 | 14:00 - 15:30 | &nbsp; Game Jam Highlights |
 | 15:45 - 16:45 | &nbsp; Closing |
 | 16:45 - 19:00 | &nbsp; Social (At Arcade MTL) |
-
-
 
 # Bird-eye View
 
