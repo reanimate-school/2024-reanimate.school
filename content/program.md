@@ -15,6 +15,8 @@ author = ""
 | 15:45 - 17:15 | &nbsp; Chris |
 | 17:15 - 19:00 | &nbsp; Champioship |
 
+<br/>
+
 # Tuesday
 
 | Jun. 11 | Tuesday |
