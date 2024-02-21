@@ -6,7 +6,7 @@ author = ""
 
 # Monday
 
-| Jun. 10 | Monday |
+| Jun. 10 | &nbsp; Monday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Registration, Welcome, Breakfast |
 | 10:00 - 11:30 | &nbsp; Jimmy M. |
@@ -19,7 +19,7 @@ author = ""
 
 # Tuesday
 
-| Jun. 11 | Tuesday |
+| Jun. 11 | &nbsp; Tuesday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast (at LUDOV) |
 | 10:00 - 11:30 | &nbsp; Carl (at LUDOV) |
@@ -32,7 +32,7 @@ author = ""
 
 # Wednesday
 
-| Jun. 12 | Wednesday |
+| Jun. 12 | &nbsp; Wednesday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; Cindy |
@@ -45,7 +45,7 @@ author = ""
 
 # Thursday
 
-| Jun. 13 | Thursday |
+| Jun. 13 | &nbsp; Thursday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; Rilla (at TAG) |
@@ -58,7 +58,7 @@ author = ""
 
 # Friday
 
-| Jun. 14 | Friday |
+| Jun. 14 | &nbsp; Friday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; Industry Keynote |
