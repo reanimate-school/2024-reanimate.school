@@ -28,6 +28,8 @@ author = ""
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Champioship |
 
+<br/>
+
 # Wednesday
 
 | Jun. 12 | Wednesday |
@@ -38,6 +40,8 @@ author = ""
 | 14:00 - 15:30 | &nbsp; John A. |
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Champioship |
+
+<br/>
 
 # Thursday
 
@@ -50,6 +54,8 @@ author = ""
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Champioship |
 
+<br/>
+
 # Friday
 
 | Jun. 14 | Friday |
@@ -60,6 +66,8 @@ author = ""
 | 14:00 - 15:30 | &nbsp; Game Jam Highlights |
 | 15:45 - 16:45 | &nbsp; Closing |
 | 16:45 - 19:00 | &nbsp; Social (At Arcade MTL) |
+
+<br/>
 
 # Bird-eye View
 
