@@ -71,7 +71,7 @@ author = ""
 
 # Bird-eye View
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday |
 |---:|:---:|:---:|:---:|:---:|:---:|
 |  | Jun 10 | Jun 11 | Jun 12 | Jun 13 | Jun 14 |
 | 09:00 - 10:00 | Registration, Welcome, Breakfast | Breakfast (at LUDOV) | Breakfast | Breakfast | Breakfast |
