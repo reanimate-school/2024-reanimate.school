@@ -23,6 +23,11 @@ theme = 'hugo.386'
 
 preserveTaxonomyNames = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [params]
     # The name to display as main title in the home page
     mainpagetitle = "Summer School ReAnimate"
