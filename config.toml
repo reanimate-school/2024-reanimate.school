@@ -111,6 +111,12 @@ preserveTaxonomyNames = true
     identifier = "program"
     name = "Program"
     url = "/program/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/registration/"
     weight = 30
 
   [[menu.main]]
