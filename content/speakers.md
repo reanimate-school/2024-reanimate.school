@@ -27,6 +27,8 @@ In April 2021 Chris joined Concordia University, heading up their ‘gamificatio
 
 # Jimmy Maher
 
+Jimmy Maher has been writing [The Digital Antiquarian](https://www.filfre.net/), an ongoing history of computer games and digital culture, since 2011. Since 2019, that site has been joined by [The Analog Antiquarian](https://analog-antiquarian.net/), a growing collection of ebooks on world history, seen through the lens of the Wonders of the World. Jimmy is also the author [The Future Was Here](https://mitpress.mit.edu/9780262535694/the-future-was-here/), a book in the MIT Press's Platform Studies series dealing with the Commodore Amiga, and The King of Shreds and Patches, an epic interactive fiction set in Shakespeare's London. He holds a Bachelors in Literary Studies and a Masters in Arts and Technology, both from the University of Texas at Dallas. Today he lives near Vejle, Denmark, with his wife and their two children, who happen to be cats.
+
 # Frédérick Maheux
 
 Frédérick Maheux is a multimedia artist whose main interests are emergent subcultures of the digital age, eschatological futurology, and speculative realism. Besides his work in experimental and documentary cinema, he creates noisy video games, produces industrial music under Un Regard Froid, and practices the art of analogic collages. He is currently a doctoral student at the communication department of UQAM, working on video game creation as a research methodology to study noise.
