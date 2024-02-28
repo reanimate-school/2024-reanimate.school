@@ -25,6 +25,8 @@ In April 2021 Chris joined Concordia University, heading up their ‘gamificatio
 
 # Rilla Khaled
 
+Dr. Rilla Khaled is an Associate Professor of Design and Computation Arts at Concordia University in Tiohtià:ke / Montréal. She is Associate Director of the Technoculture, Art and Games (TAG) Research Centre. Her work focuses on how playful media can improve daily life, and spans establishing foundations for recoverable, materials-based game design research, articulating boundaries for experimental uses of AI, designing award-winning games, creating speculative prototypes of near-future technologies, and working with BIPOC communities to materialise inclusive futures.
+
 # Jimmy Maher
 
 Jimmy Maher has been writing [The Digital Antiquarian](https://www.filfre.net/), an ongoing history of computer games and digital culture, since 2011. Since 2019, that site has been joined by [The Analog Antiquarian](https://analog-antiquarian.net/), a growing collection of ebooks on world history, seen through the lens of the Wonders of the World. Jimmy is also the author [The Future Was Here](https://mitpress.mit.edu/9780262535694/the-future-was-here/), a book in the MIT Press's Platform Studies series dealing with the Commodore Amiga, and The King of Shreds and Patches, an epic interactive fiction set in Shakespeare's London. He holds a Bachelors in Literary Studies and a Masters in Arts and Technology, both from the University of Texas at Dallas. Today he lives near Vejle, Denmark, with his wife and their two children, who happen to be cats.
