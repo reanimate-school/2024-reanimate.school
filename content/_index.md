@@ -33,4 +33,4 @@ TBA
 
 <br/>
 <br/>
-<img src="/static/Summer%20school%202024%20wip1.jpg"/>
+<img width=500 src="/Summer%20school%202024%20wip1.jpg"/>
