@@ -29,8 +29,6 @@ Please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 wor
 
 # How much?
 
-TBA
+Please see the [registration page](/registration/).
 
-<br/>
-<br/>
-<img width=500 src="/Summer%20school%202024%20wip1.jpg"/>
+<center><img width=500 src="/Summer%20school%202024%20wip1.jpg"/></center>
