@@ -2,6 +2,8 @@
 
 +++
 
+<br/><center><img width=500 src="/Summer%20school%202024%20wip1.jpg"/></center><br/>
+
 # Who?
 
 Researchers, writers, journalists, Students, gaming enthusiasts, and individuals interested in (retro) games. No previous experience in retro-development is necessary: enthusiasm trumps experience!
@@ -31,4 +33,3 @@ Please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 wor
 
 Please see the [registration page](/registration/).
 
-<center><img width=500 src="/Summer%20school%202024%20wip1.jpg"/></center>
