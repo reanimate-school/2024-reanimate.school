@@ -10,7 +10,7 @@ Researchers, writers, journalists, Students, gaming enthusiasts, and individuals
 
 # What?
 
-Five days providing ample time for theoretical learning and hands-on practical activities on retro-development.
+Five days, providing ample time for theoretical learning and hands-on practical activities on retro-development.
 
 # Where?
 
