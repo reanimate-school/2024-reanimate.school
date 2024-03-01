@@ -11,6 +11,8 @@ John Aycock is a full professor in the Department of Computer Science at the Uni
 
 # Charlotte Courtois
 
+Charlotte Courtois is a PhD candidate at Université de Montréal. Her research-creation work focuses on the history of pornographic video games on Commodore 64 and ZX Spectrum, as she uses those platform to develop queer inclusive explicit games. She's the co-organiser of "Input, Poke, Save", a Discord-based anual seminar on platform studies approach to video games. She works with Professor Caroline Bem on organising exhibitions of video games against gender-based, sexual, queerphobic and racist violences in university campuses. She develops games on the topic of politics and sexuality on https://miramar.itch.io/ 
+
 # Alex Custodio
 
 Alex Custodio is an academic, author, and artist based in Montreal. As a SSHRC-funded PhD student in Concordia University's Humanities program, their research focuses on fan communities, videogame afterlives, and techniques of hardware and software hacking. Their first monograph, Who Are You? Nintendo's Game Boy Advance Platform, is available from the MIT Press. You can find more of their work at [alexcustodio.com](https://www.alexcustodio.com/).
