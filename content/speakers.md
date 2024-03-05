@@ -11,15 +11,15 @@ John Aycock is a full professor in the Department of Computer Science at the Uni
 
 # Charlotte Courtois
 
-Charlotte Courtois is a PhD candidate at Université de Montréal. Her research-creation work focuses on the history of pornographic video games on Commodore 64 and ZX Spectrum, as she uses those platform to develop queer inclusive explicit games. She's the co-organiser of "Input, Poke, Save", a Discord-based anual seminar on platform studies approach to video games. She works with Professor Caroline Bem on organising exhibitions of video games against gender-based, sexual, queerphobic and racist violences in university campuses. She develops games on the topic of politics and sexuality on https://miramar.itch.io/ 
+Charlotte Courtois is a PhD candidate at Université de Montréal. Her research-creation work focuses on the history of pornographic video games on Commodore 64 and ZX Spectrum, as she uses those platforms to develop queer inclusive explicit games. She's the co-organiser of "Input, Poke, Save", a Discord-based annual seminar on platform studies approach to video games. She works with Professor Caroline Bem on organising exhibitions of video games against gender-based, sexual, queerphobic, and racist violence on university campuses. She develops games on the topic of politics and sexuality on https://miramar.itch.io/ 
 
 # Alex Custodio
 
-Alex Custodio is an academic, author, and artist based in Montreal. As a SSHRC-funded PhD student in Concordia University's Humanities program, their research focuses on fan communities, videogame afterlives, and techniques of hardware and software hacking. Their first monograph, Who Are You? Nintendo's Game Boy Advance Platform, is available from the MIT Press. You can find more of their work at [alexcustodio.com](https://www.alexcustodio.com/).
+Alex Custodio is an academic, author, and artist based in Montreal. As an SSHRC-funded PhD student in Concordia University's Humanities program, their research focuses on fan communities, videogame afterlives, and techniques of hardware and software hacking. Their first monograph, Who Are You? Nintendo's Game Boy Advance Platform is available from the MIT Press. You can find more of their work at [alexcustodio.com](https://www.alexcustodio.com/).
 
 # Chris Gibbs
 
-Chris graduated in 1988 with a BSc in Software Engineering and co-founded a video-game development studio, Attention To Detail, creating games for publishers around the world. Over the course of 15 years the studio grew to 100+ employees and released games across all genres and on all platforms. In 2013 Chris joined Electronic Arts to run their Manchester Studio and brought Battlefield from the PC into the PS2 and Xbox. Over a 10-year period Chris was responsible for studios in London, Bucharest, Hyderabad and finally Montreal, with a major focus on mobile gaming, all the while honing a deep understanding of designing software with the end-user at the heart of the process.
+Chris graduated in 1988 with a BSc in Software Engineering and co-founded a video game development studio, Attention To Detail, creating games for publishers around the world. Over the course of 15 years, the studio grew to 100+ employees and released games across all genres and on all platforms. In 2013 Chris joined Electronic Arts to run their Manchester Studio and brought Battlefield from the PC into the PS2 and Xbox. Over a 10-year period, Chris was responsible for studios in London, Bucharest, Hyderabad, and finally Montreal, with a major focus on mobile gaming, all the while honing a deep understanding of designing software with the end-user at the heart of the process.
 
 In 2016 Chris developed and released his own mobile game, Smart Numbers, which Apple promoted as App of the Week and continued supporting this until 2019.
 
@@ -27,7 +27,7 @@ In April 2021 Chris joined Concordia University, heading up their ‘gamificatio
 
 # Rilla Khaled
 
-Dr. Rilla Khaled is an Associate Professor of Design and Computation Arts at Concordia University in Tiohtià:ke / Montréal. She is Associate Director of the Technoculture, Art and Games (TAG) Research Centre. Her work focuses on how playful media can improve daily life, and spans establishing foundations for recoverable, materials-based game design research, articulating boundaries for experimental uses of AI, designing award-winning games, creating speculative prototypes of near-future technologies, and working with BIPOC communities to materialise inclusive futures.
+Dr. Rilla Khaled is an Associate Professor of Design and Computation Arts at Concordia University in Tiohtià:ke / Montréal. She is Associate Director of the Technoculture, Art and Games (TAG) Research Centre. Her work focuses on how playful media can improve daily life and spans establishing foundations for recoverable, materials-based game design research, articulating boundaries for experimental uses of AI, designing award-winning games, creating speculative prototypes of near-future technologies, and working with BIPOC communities to materialise inclusive futures.
 
 # Jimmy Maher
 
@@ -41,8 +41,12 @@ www.frederickmaheux.com / https://deathorgone.itch.io/
 
 # Cindy Poremba
 
-Cindy Poremba, PhD, is a digital media researcher, gamemaker and curator. They are an Associate Professor (Digital Futures) at OCAD University (Tkaronto/Toronto, CA) and Co-Director of OCAD’s game:play Lab. Dr. Poremba has presented internationally at conferences, festivals and invited lectures, on topics relating to game art and curation, capture in postmedia practices, and interactive documentary. Cindy also organizes non-traditional exhibitions as an independent curator. Their award-winning game and “New Arcade” work, independently and as a member of the kokoromi experimental videogame collective, has been featured in both international game and digital art exhibitions.
+Cindy Poremba, Ph.D., is a digital media researcher, game maker, and curator. They are an Associate Professor (Digital Futures) at OCAD University (Tkaronto/Toronto, CA) and Co-Director of OCAD’s game:play Lab. Dr. Poremba has presented internationally at conferences, festivals, and invited lectures, on topics relating to game art and curation, capture in postmedia practices, and interactive documentaries. Cindy also organizes non-traditional exhibitions as an independent curator. Their award-winning game and “New Arcade” work, independently and as a member of the Kokoromi experimental videogame collective, has been featured in both international game and digital art exhibitions.
 
 # Carl Therrien
 
 Carl Therrien is a Full Professor in games and film studies at the Université de Montréal. In The Media Snatcher (Platform studies, MIT Press, 2019), he proposed a critical view of videogame historiography through a comparative study of the PC Engine platform, confronting American and Japanese perspectives of this technology. He has written numerous papers on immersion and the history of popular genres (such as adventure games and first-person shooters). His research projects seek to integrate more video games into the canon, hoping to assist archivists and historians in their efforts to engage with the diversity and complexity of this culture.
+
+# Darren Wershler
+
+Darren Wershler is a Professor of English, Acting Director of the Centre for Technoculture, Art and Games (TAG), and the Director of the Residual Media Depot at Concordia. His most recent book, with Lori Emerson and Jussi Parikka, is THE LAB BOOK: Situated Practices in Media Studies (University of Minnesota Press, 2022).
