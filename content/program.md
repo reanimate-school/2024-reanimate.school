@@ -13,7 +13,7 @@ author = ""
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Alex (Nintendo Mod) |
 | 15:45 - 17:15 | &nbsp; Chris |
-| 17:15 - 19:00 | &nbsp; Champioship |
+| 17:15 - 19:00 | &nbsp; Championship |
 
 <br/>
 
@@ -26,7 +26,7 @@ author = ""
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Charlotte, Frederick (Retro Design) |
 | 15:45 - 17:15 | &nbsp; Game Jam |
-| 17:15 - 19:00 | &nbsp; Champioship |
+| 17:15 - 19:00 | &nbsp; Championship |
 
 <br/>
 
@@ -39,7 +39,7 @@ author = ""
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; John A. |
 | 15:45 - 17:15 | &nbsp; Game Jam |
-| 17:15 - 19:00 | &nbsp; Champioship |
+| 17:15 - 19:00 | &nbsp; Championship |
 
 <br/>
 
@@ -52,7 +52,7 @@ author = ""
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Game Jam |
 | 15:45 - 17:15 | &nbsp; Game Jam |
-| 17:15 - 19:00 | &nbsp; Champioship |
+| 17:15 - 19:00 | &nbsp; Championship |
 
 <br/>
 
