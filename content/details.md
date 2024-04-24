@@ -1,0 +1,10 @@
+# From Code Lines to Creative Leaps: The Evolution of Game Development
+## By Carlos Pinto Gomez
+
+In the keynote "From Code Lines to Creative Leaps: The Evolution of Game Development," we will embark on a detailed exploration of how game development has evolved from the complex, code-centric approaches of its inception to today's innovative methodologies like visual scripting that significantly lower the barrier to entry. The session will thoroughly examine pivotal moments in video game history, highlighting the evolution of game development methodologies and the technical challenges faced by pioneers in the field.
+
+As we navigate the historical timeline, emphasis will be placed on the development of game systems, with a focus on comparing technologies used for integrating other systems such as sound, visual effects, and animations. We will explore how advancements such as visual scripting have simplified the use of these complex systems, particularly in versatile engines like Unreal, Unity, and Godot. Additionally, we will discuss how these technological shifts have influenced production methodologies, transitioning from traditional waterfall models to agile frameworks that facilitate rapid prototyping and iterative development.
+
+These tools have not only streamlined the development process but also expanded the creative possibilities by enabling a diverse range of creators, including artists and designers without formal coding backgrounds, to bring their visions to life. This democratization of game development is accelerating time to market, allowing studios to gather player feedback earlier, and thereby enhancing game quality through real-world testing; as covered by our featured case studies of successful games that exemplify the impact of these modern methodologies on both the development workflow and the end product.
+
+Join us as we trace the evolution from intricate code lines to expansive creative leaps, exploring how the advancement of development tools has transformed the way games are made and expanded the very horizons of the gaming industry.
