@@ -61,7 +61,7 @@ author = ""
 | Jun. 14 | &nbsp; Friday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
-| 10:00 - 11:30 | &nbsp; Carlos Pinto Gomez (from NetEase Games Montreal) |
+| 10:00 - 11:30 | &nbsp; [Carlos Pinto Gomez (from NetEase Games Montreal)](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Game Jam Highlights |
 | 15:45 - 16:45 | &nbsp; Closing |
