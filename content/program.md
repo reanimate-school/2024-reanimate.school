@@ -22,7 +22,7 @@ author = ""
 | Jun. 11 | &nbsp; Tuesday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast (at LUDOV) |
-| 10:00 - 11:30 | &nbsp; Carl (at LUDOV) |
+| 10:00 - 11:30 | &nbsp; [Carl (at LUDOV)](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Charlotte, Frederick (Retro Design) |
 | 15:45 - 17:15 | &nbsp; Game Jam |
