@@ -39,6 +39,10 @@ Frédérick Maheux is a multimedia artist whose main interests are emergent subc
 
 www.frederickmaheux.com / https://deathorgone.itch.io/
 
+# Carlos Pinto Gomez
+
+Carlos Pinto Gomez is a software development professional with 12 years of experience, including a specialized focus on QA in various industries over the last five years, particularly in video game production. His expertise includes test automation, tools programming, designing CI/CD pipelines, and implementing Agile methodologies. Carlos has contributed to runtime applications and video games using Unity, Unreal, and proprietary engines at leading companies such as Ubisoft, Unity Technologies, and currently, NetEase Games Montreal. He has also authored scholarly work dedicated to refining game development practices.
+
 # Cindy Poremba
 
 Cindy Poremba, Ph.D., is a digital media researcher, game maker, and curator. They are an Associate Professor (Digital Futures) at OCAD University (Tkaronto/Toronto, CA) and Co-Director of OCAD’s game:play Lab. Dr. Poremba has presented internationally at conferences, festivals, and invited lectures, on topics relating to game art and curation, capture in postmedia practices, and interactive documentaries. Cindy also organizes non-traditional exhibitions as an independent curator. Their award-winning game and “New Arcade” work, independently and as a member of the Kokoromi experimental videogame collective, has been featured in both international game and digital art exhibitions.
