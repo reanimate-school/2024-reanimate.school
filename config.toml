@@ -75,6 +75,9 @@ preserveTaxonomyNames = true
     # Text to go between copyright and hugo disclaimer (if enabled)
     suffix = ""
 
+[params.meta]
+    favicon = true
+
 [menu]
   # This displays buttons in the navbar to access your contents
   [[menu.main]]
