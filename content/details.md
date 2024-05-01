@@ -10,7 +10,7 @@ These tools have not only streamlined the development process but also expanded 
 Join us as we trace the evolution from intricate code lines to expansive creative leaps, exploring how the advancement of development tools has transformed the way games are made and expanded the very horizons of the gaming industry.
 
 
-# Haunted Vertices and Low Poly Terror – PS1 Aesthetic as Zombie Media, Hauntology, and Glitch Horror 
+# Haunted Vertices and Low Poly Frights – PS1 Aesthetic as Zombie Media, Hauntology, and Glitch Horror
 ## Frédérick Maheux
 
 The original PlayStation console, despite ceasing production in 2006, continues to exert a profound influence on alternative games culture. New assets, shaders, and tools emulating its unique aesthetics are constantly proposed across various game engines. The popularity of demakes, and low poly reinterpretations of critically acclaimed games such as Bloodborne (From Software, 2015), is a testament to this enduring influence. This trend extends beyond video games. Petscop (Tony Domenico, 2017), a YouTube horror series presented as a Let's Play of a fictional haunted game, is but one example of the lasting allure of PS1-era aesthetics. While the console saw the release of seminal horror games such as Resident Evil (Capcom, 1996) and Silent Hill (Konami, 1999), more obscure Japanese titles such as Germs Nerawareta Machi (KAF, 1999) and Kowai Sashin (Media Entertainment, 2002) are being fan translated and generating popular content for video creators on YouTube and Twitch.
