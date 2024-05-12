@@ -1,3 +1,18 @@
+# Trials & Tribulations of a British Game Dev in the 90’s
+## Chris Gibbs
+
+I will walk through my personal journey, starting as a bedroom game coder in the early 80’s, pirating cassettes at school, getting games printed in magazines, doing my first commercial game, Atari’s SuperSprint on the AtariST while at University and then co-founding and growing Attention To Detail over 10 years, making games for LucasArts, Activision, Atari, US Gold, LEGO, Psygnosis, SONY, Gremlin Graphics and more, until selling to a larger game development group in 1998 and entering a corporate atmosphere for the first time.
+
+The talk will explore three key themes: 1.The development process, 2.The games business, 3.The gaming audience, showing how I saw them each evolve rapidly (chaotically!) over that period. This was the time when games transitioned from 2D to 3D, there was the emergence of multiple successful (and unsuccessful) games consoles, and the cottage industry in the UK was overpowered by the serious industry leadership in the US and Japan.
+
+The story has many highs and lows, from well-reviewed successful games to terrible games that didn’t ever get published, from high-dollar deals that promised early retirement, to near-bankruptcy. ATD went from being five friends living and working in the same house, to over 60 employees in a converted barn.  I will adopt a conversational style, re-living many funny / unusual anecdotes with the larger-than-life characters I met at publishers and other developers, trying to share what it really felt like in those pioneering days when the games industry didn’t know yet it if it was an industry or just a fad.
+
+I’ll finish with things coming full circle in 2016 when once more, as an independent developer, I created and launched Smart Numbers on iPhone/Android, and realised that mobile development was again giving individuals the chance to be creative and get stuff out there, without needing the blessing of a publisher or the crazy costs of a large team, just like we did thirty five years ago.
+
+The talk will be supported by old video clips and images from back in the day, plus a variety of physical objects to look at (magazines, copies of games in original packaging, original ZX Spectrum with its DK Tronics keyboard, games on cassettes, games on floppy disks, artwork).
+
+
+
 # From Code Lines to Creative Leaps: The Evolution of Game Development
 ## By Carlos Pinto Gomez
 
@@ -8,6 +23,14 @@ As we navigate the historical timeline, emphasis will be placed on the developme
 These tools have not only streamlined the development process but also expanded the creative possibilities by enabling a diverse range of creators, including artists and designers without formal coding backgrounds, to bring their visions to life. This democratization of game development is accelerating time to market, allowing studios to gather player feedback earlier, and thereby enhancing game quality through real-world testing; as covered by our featured case studies of successful games that exemplify the impact of these modern methodologies on both the development workflow and the end product.
 
 Join us as we trace the evolution from intricate code lines to expansive creative leaps, exploring how the advancement of development tools has transformed the way games are made and expanded the very horizons of the gaming industry.
+
+
+
+# Memoirs of an Accidental Digital Antiquarian
+## Jimmy Maher
+
+I started my website The Digital Antiquarian just over thirteen years ago now, having no idea what it would eventually turn into or how big a space in my life it would come to fill. In this talk, I'll tell how a curiosity about one old game called The Oregon Trail and an uncertainty about what I wanted to do next in life turned into an extended ramble through 25 years of gaming history (and counting). More importantly, I'll share some of the lessons I've learned along the way, about how we received games back in the day versus how they appear to us today on websites like mine, and how we can balance the pull of nostalgia with the more critical perspective that we need to be able to adopt if we're to call ourselves true cultural historians. I'll tell how my personal history with games, dating back to the days of the Atari VCS, informs what I write, as well as the places where I'm careful *not* to let it fill too much. And finally, I'll mount my favorite hobby horse to tell you why I believe that anyone who is interested in writing about games as a cultural phenomenon should nourish a broad range of interests, both in the interest of doing better work and in that of living a better life, and why loving games too much or too exclusively could actually be detrimental to both.
+
 
 
 # Haunted Vertices and Low Poly Frights – PS1 Aesthetic as Zombie Media, Hauntology, and Glitch Horror
@@ -21,6 +44,15 @@ This presentation will analyze the fascination with the original PlayStation con
 - Finally, the potential of glitches and errors in horror titles as an affective "vengeance" from game designers to express personal emotions.
 
 These three concepts will serve as a lens to understand the creations of various communities where PS1 aesthetics is central, such as Haunted PS1 and Domino Club. Titles from Modus Interactive, Colorfiction, and Valerie Dusk will be shared to vividly illustrate the limitless and captivating creative possibilities of the PS1. 
+
+
+
+# Jordan Mechner's Canabalt
+## Cindy Poremba
+
+In 1989, a game was released that challenged film’s exclusive grip on the cinematic, bringing a fluidity of real-world motion and a "shimmer" of aliveness into videogames. _Jordan Mechner’s Canabalt_ drew from embodied performances inspired by cinema’s great action sequences, painstakingly translated by videogame auteur Jordan Mechner from the real world to the Commodore 64 computer. 
+
+_Mechner’s Canabalt_ is a counterfactual game entangling two videogame histories: _Mechner’s Prince of Persia_ (1989) for the Apple II, and the 2012 game C64anabalt, an official conversion of Adam Saltsman’s Canabalt (2009) by Paul Koller for the Commodore 64. This tangle of narratives weaves together new materialist rhetorics of motion capture with the retro design imaginary to ask: how does what we design dwell in the times and places that they do?
 
 
 
