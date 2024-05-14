@@ -37,7 +37,7 @@ author = ""
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; [Cindy](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
-| 14:00 - 15:30 | &nbsp; John A. |
+| 14:00 - 15:30 | &nbsp; [John A.](/details/) |
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Championship |
 
