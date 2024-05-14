@@ -1,3 +1,10 @@
+# Archaeogaming: Computer Science Meets Archaeology
+## John Aycock
+
+Why on earth would anyone study old computer games, and what can we learn from them? I tell the story of how the solution to a teaching problem accidentally became a line of interdisciplinary research. Along the way, this "retro game archaeology" intersected with real archaeology and the drafting of a manifesto in Europe, an activity that sounds more subversive than it really was. My collaborators and I have been (re)discovering the clever ways that game programmers would create games on highly constrained computers, and also seeing that human interactions with technology have changed little since stone tools were in vogue. This interdisciplinary work fits under the umbrella of "archaeogaming", which has been defined as the archaeology in and of video games, but at the same time challenges traditional ideas of what an archaeological artifact is and how it can be studied. Multiple examples will be used to surprise and delight.
+
+
+
 # Handheld Homebrew: An Intro to Hobbyist Game Boy Development
 ## Alex Custodio
 
