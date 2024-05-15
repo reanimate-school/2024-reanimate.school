@@ -31,6 +31,19 @@ The talk will be supported by old video clips and images from back in the day, p
 
 
 
+# The Knot: Situating Old Game
+## Rilla Khaled and Darren Wershler
+
+Our argument is that thinking about old games in an academic context involves considering three aspects of them more or less simultaneously: materiality; technique; and culture. 
+
+As in a trefoil knot, these aspects are deeply interrelated: technique produces both the subject employing the technique and the object on which it is being exercised; our sense of what something is and what we might do with it emerges out of the cultural — that is, interactions with (debates, arguments conversations) with others; materiality sets the conditions for our embodied experience of them, and what it is possible to do with them.
+
+When working with old games, one can begin anywhere in untangling this knot, but researchers will eventually find they need to travel through all three aspects of its circuit to say anything meaningful.
+
+During the talk, we will approach each of these aspects from our separate perspectives with examples from our own work, with particular attention to points of both agreement and debate.
+
+
+
 # From Code Lines to Creative Leaps: The Evolution of Game Development
 ## By Carlos Pinto Gomez
 
