@@ -48,7 +48,7 @@ author = ""
 | Jun. 13 | &nbsp; Thursday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
-| 10:00 - 11:30 | &nbsp; Rilla and Darren (at TAG) |
+| 10:00 - 11:30 | &nbsp; [Rilla and Darren (at TAG)](/details) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Game Jam |
 | 15:45 - 17:15 | &nbsp; Game Jam |
