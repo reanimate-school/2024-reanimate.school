@@ -61,7 +61,7 @@ author = ""
 | Jun. 14 | &nbsp; Friday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
-| 10:00 - 11:30 | &nbsp; [Carlos Pinto Gomez (from NetEase Games Montreal)](/details/) |
+| 10:00 - 11:30 | &nbsp; [Carlos Pinto Gomez (PhD student at ETS)](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Game Jam Highlights |
 | 15:45 - 16:45 | &nbsp; Closing |
@@ -75,7 +75,7 @@ author = ""
 |---:|:---:|:---:|:---:|:---:|:---:|
 |  | Jun 10 | Jun 11 | Jun 12 | Jun 13 | Jun 14 |
 | 09:00 - 10:00 | Registration, Welcome, Breakfast | Breakfast (at LUDOV) | Breakfast | Breakfast | Breakfast |
-| 11:00 - 11:30 | Jimmy M. | Carl (at LUDOV) | Cindy | Rilla (at TAG) | Carlos Pinto Gomez (from NetEase Games Montreal) |
+| 11:00 - 11:30 | Jimmy M. | Carl (at LUDOV) | Cindy | Rilla (at TAG) | Carlos Pinto Gomez (PhD student at ETS) |
 | 12:00 - 14:00 | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks |
 | 14:00 - 15:30 | Alex (Nintendo Mod) | Charlotte, Frederick (Retro Design) | John A. | Game Jam | Game Jam Highlights |
 | 15:45 - 17:15 | Chris | Game Jam | Game Jam | Game Jam | Closing |
