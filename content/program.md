@@ -8,7 +8,7 @@ author = ""
 
 | Jun. 10 | &nbsp; Monday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; Registration, Welcome, Breakfast ([Yann](/organisers/) [[PDF](/Presentations/240610a%20-%20Welcome.pdf))] |
+| 09:00 - 10:00 | &nbsp; Registration, Welcome, Breakfast ([Yann](/organisers/) [[PDF](/Presentations/240610a%20-%20Welcome.pdf)]) |
 | 10:00 - 11:30 | &nbsp; [Jimmy M.](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; [Alex (Nintendo Mod)](/details/) |
