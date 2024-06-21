@@ -33,6 +33,8 @@ In April 2021 Chris joined Concordia University, heading up their ‘gamificatio
 
 # Rilla Khaled
 
+[[PDF](/Presentations/240613a%20-%20Rilla%20and%20Darren%20-%20The%20Knot%20-%20Situating%20Old%20Games%20(Research).pdf)]
+
 Dr. Rilla Khaled is an Associate Professor of Design and Computation Arts at Concordia University in Tiohtià:ke / Montréal. She is Associate Director of the Technoculture, Art and Games (TAG) Research Centre. Her work focuses on how playful media can improve daily life and spans establishing foundations for recoverable, materials-based game design research, articulating boundaries for experimental uses of AI, designing award-winning games, creating speculative prototypes of near-future technologies, and working with BIPOC communities to materialise inclusive futures.
 
 # Jimmy Maher
@@ -64,5 +66,7 @@ Cindy Poremba, Ph.D., is a digital media researcher, game maker, and curator. Th
 Carl Therrien is a Full Professor in games and film studies at the Université de Montréal. In The Media Snatcher (Platform studies, MIT Press, 2019), he proposed a critical view of videogame historiography through a comparative study of the PC Engine platform, confronting American and Japanese perspectives of this technology. He has written numerous papers on immersion and the history of popular genres (such as adventure games and first-person shooters). His research projects seek to integrate more video games into the canon, hoping to assist archivists and historians in their efforts to engage with the diversity and complexity of this culture.
 
 # Darren Wershler
+
+[[PDF](/Presentations/240613a%20-%20Rilla%20and%20Darren%20-%20The%20Knot%20-%20Situating%20Old%20Games%20(Research).pdf)]
 
 Darren Wershler is a Professor of English, Acting Director of the Centre for Technoculture, Art and Games (TAG), and the Director of the Residual Media Depot at Concordia. His most recent book, with Lori Emerson and Jussi Parikka, is THE LAB BOOK: Situated Practices in Media Studies (University of Minnesota Press, 2022).
