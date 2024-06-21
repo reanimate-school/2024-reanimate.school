@@ -5,6 +5,13 @@ Why on earth would anyone study old computer games, and what can we learn from t
 
 
 
+# Low-tech by Design: Using Retro Tools for Green Game Dev
+## Charlotte Courtois
+
+Graphic Adventure Creator as a 1986 Twine? Let's take an ecologic activist stance on game creation by  looking at a retro game creation tool: Graphic Adventure Creator (GAC), by Incentive Software (1986). The tool was thought to be accessible to beginners and can be used without any coding knowledge, as John  Aycock highlighted in his precious interview with Sean Ellis in 2016; the now departed creator of the software. Similar to a 1986 Twine in its functioning, GAC is constructed by interconnected rooms, similar to the passages of Twine. The spatial approach to data and narration is classic of the 1980s text adventure genre but can be bent to other sorts of modes and interactive fictions. I will show you some of the games I created with this engine as well as the resources to hopefully enable you to build your own GAC games and take part in the low-tech movement of game creation. 
+
+
+
 # Handheld Homebrew: An Intro to Hobbyist Game Boy Development
 ## Alex Custodio
 
