@@ -36,7 +36,7 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "2024 Summer School on Retro Gaming History, Critic, and Development" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "A summer school dedicated to retro gaming, which invites both humanities and engineering to provide unique insights on retro gaming, both theoretical and practical, and opportunities for cross-fertilization among research fields. Supported by the ACM SIGSOFT."
+    mainpagedesc = "A summer school dedicated to retro gaming, which invites both humanities and engineering to provide unique insights on retro gaming, both theoretical and practical, and opportunities for cross-fertilization among research fields. Supported by the ACM SIGSOFT and Cloanto."
 
     # The name to display in the copyright section in the footer
     copyrightname = "Summer School ReAnimate"
