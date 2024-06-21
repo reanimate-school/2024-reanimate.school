@@ -24,7 +24,7 @@ author = ""
 | 09:00 - 10:00 | &nbsp; Breakfast (at LUDOV) |
 | 10:00 - 11:30 | &nbsp; [Carl (at LUDOV)](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
-| 14:00 - 15:30 | &nbsp; [Charlotte, Frederick (Retro Design)](/details/) |
+| 14:00 - 15:30 | &nbsp; [Charlotte, Frederick (Retro Design)](/details/) [[PDF](/Presentations/240611c%20-%20Charlotte%20-%20Low-tech%20by%20Design_%20Using%20Retro%20Tools%20for%20Green%20Game%20Dev.pdf)] [[PDF](/Presentations/240611b%20-%20Frédérick%20-%20Haunted%20Vertices%20and%20Low%20Poly%20Frights.pdf)] |
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Championship |
 
@@ -35,9 +35,9 @@ author = ""
 | Jun. 12 | &nbsp; Wednesday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
-| 10:00 - 11:30 | &nbsp; [Cindy](/details/) |
+| 10:00 - 11:30 | &nbsp; [Cindy](/details/) [[PDF](/Presentations/240612b%20-%20Cindy%20-%20Jordan%20Mechner’s%20Canabalt.pdf)] |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
-| 14:00 - 15:30 | &nbsp; [John A.](/details/) |
+| 14:00 - 15:30 | &nbsp; [John A.](/details/) [[PDF](/Presentations/240612e%20-%20John%20-%20Archaeogaming%20-%20Computer%20Science%20Meets%20Archaeology.pdf)] |
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Championship |
 
@@ -61,7 +61,7 @@ author = ""
 | Jun. 14 | &nbsp; Friday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
-| 10:00 - 11:30 | &nbsp; [Carlos Pinto Gomez](/details/) |
+| 10:00 - 11:30 | &nbsp; [Carlos Pinto Gomez](/details/) [[PDF](/Presentations/240614a%20-%20Carlos%20-%20From%20Code%20Lines%20to%20Creative%20Leaps_%20The%20Evolution%20of%20Game%20Development.pdf)] |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; Game Jam Highlights |
 | 15:45 - 16:45 | &nbsp; Closing |
