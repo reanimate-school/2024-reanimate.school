@@ -48,7 +48,7 @@ author = ""
 | Jun. 13 | &nbsp; Thursday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
-| 10:00 - 11:30 | &nbsp; [Rilla and Darren (at TAG)](/details) |
+| 10:00 - 11:30 | &nbsp; [Rilla and Darren (at TAG)](/details) [[PDF](/Presentations/240613a%20-%20Rilla%20and%20Darren%20-%20The%20Knot%20-%20Situating%20Old%20Games%20(Research).pdf)] |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks [[PDF](/Presentations/240613b%20-%20Adrian%20-%20Tracing%20Programming%20Practices%20in%20the%201980ies.pdf)] |
 | 14:00 - 15:30 | &nbsp; Game Jam |
 | 15:45 - 17:15 | &nbsp; Game Jam |
