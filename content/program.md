@@ -8,7 +8,7 @@ author = ""
 
 | Jun. 10 | &nbsp; Monday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; Registration, Welcome, Breakfast [[PDF](/Presentations/240610a%20-%20Welcome.pdf)] |
+| 09:00 - 10:00 | &nbsp; Registration, Welcome, Breakfast ([Yann](/organisers/) [PDF](/Presentations/240610a%20-%20Welcome.pdf)) |
 | 10:00 - 11:30 | &nbsp; [Jimmy M.](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; [Alex (Nintendo Mod)](/details/) |
@@ -25,7 +25,7 @@ author = ""
 | 10:00 - 11:30 | &nbsp; [Carl (at LUDOV)](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
 | 14:00 - 15:30 | &nbsp; [Charlotte, Frederick (Retro Design)](/details/) [[PDF](/Presentations/240611c%20-%20Charlotte%20-%20Low-tech%20by%20Design_%20Using%20Retro%20Tools%20for%20Green%20Game%20Dev.pdf)] [[PDF](/Presentations/240611b%20-%20Frédérick%20-%20Haunted%20Vertices%20and%20Low%20Poly%20Frights.pdf)] |
-| 15:45 - 17:15 | &nbsp; Game Jam [[PDF](/Presentations/240611d%20-%20Yann%20-%20Retro%20Development_%20Alternatives%20and%20Constraints.pdf)] |
+| 15:45 - 17:15 | &nbsp; Game Jam ([Yann](/organisers/) [PDF](/Presentations/240611d%20-%20Yann%20-%20Retro%20Development_%20Alternatives%20and%20Constraints.pdf)) |
 | 17:15 - 19:00 | &nbsp; Championship |
 
 <br/>
@@ -34,11 +34,11 @@ author = ""
 
 | Jun. 12 | &nbsp; Wednesday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; Breakfast [[PDF](/Presentations/240612a%20-%20Announcements.pdf)] |
+| 09:00 - 10:00 | &nbsp; Breakfast ([Yann](/organisers/) [PDF](/Presentations/240612a%20-%20Announcements.pdf)) |
 | 10:00 - 11:30 | &nbsp; [Cindy](/details/) [[PDF](/Presentations/240612b%20-%20Cindy%20-%20Jordan%20Mechner’s%20Canabalt.pdf)] |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks [[PDF](/Presentations/240612c%20-%20Robert%20-%20Computers%20and%20Games%20in%201980s%20GDR.pdf)] [[PDF](/Presentations/240612d%20-%20Fabio%20-%20Challenges%20and%20Opportunities%20on%20Software%20Engineering%20for%20Computer%20Games.pdf)] |
 | 14:00 - 15:30 | &nbsp; [John A.](/details/) [[PDF](/Presentations/240612e%20-%20John%20-%20Archaeogaming%20-%20Computer%20Science%20Meets%20Archaeology.pdf)] |
-| 15:45 - 17:15 | &nbsp; Game Jam |
+| 15:45 - 17:15 | &nbsp; Game Jam ([Gabriel](/organisers/) [PDF](/Presentations/240612f%20-%20Gabriel%20-%20How%20to%20make%20a%20piano%20in%20AMOS%20Basic%20(when%20you%20don't%20know%20AMOS%20Basic).pdf)) |
 | 17:15 - 19:00 | &nbsp; Championship |
 
 <br/>
