@@ -36,7 +36,7 @@ author = ""
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; [Cindy](/details/) [[PDF](/Presentations/240612b%20-%20Cindy%20-%20Jordan%20Mechner’s%20Canabalt.pdf)] |
-| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks [[PDF](/Presentations/240612c%20-%20Robert%20-%20Computers%20and%20Games%20in%201980s%20GDR.pdf)] [[PDF](/Presentations/240612d%20-%20Fabio%20-%20Challenges%20and%20Opportunities%20on%20Software%20Engineering%20for%20Computer%20Games.pdf)] |
 | 14:00 - 15:30 | &nbsp; [John A.](/details/) [[PDF](/Presentations/240612e%20-%20John%20-%20Archaeogaming%20-%20Computer%20Science%20Meets%20Archaeology.pdf)] |
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Championship |
@@ -49,7 +49,7 @@ author = ""
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; [Rilla and Darren (at TAG)](/details) |
-| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks [[PDF](/Presentations/240613b%20-%20Adrian%20-%20Tracing%20Programming%20Practices%20in%20the%201980ies.pdf)] |
 | 14:00 - 15:30 | &nbsp; Game Jam |
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Championship |
@@ -62,7 +62,7 @@ author = ""
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; [Carlos Pinto Gomez](/details/) [[PDF](/Presentations/240614a%20-%20Carlos%20-%20From%20Code%20Lines%20to%20Creative%20Leaps_%20The%20Evolution%20of%20Game%20Development.pdf)] |
-| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks [[PDF](/Presentations/240614b%20-%20Aleksander%20-%20Narrative%20History%20I%20-%20Japanese%20and%20Western%20Roleplaying%20Games.pdf)] [[PDF](/Presentations/240614c%20-%20Cristiano%20-%20Creativity%20Beyond%20Functionality%20-%20An%20Observational%20Study%20of%20Easter%20Eggs%20in%20Video%20Games.pdf)] [[PDF](/Presentations/240614d%20-%20Robert%20-%20Pinball!%20Physical%20Performance%20Play%20Machine%20between%20Skill%20and%20(a%20bit%20of)%20Luck.pdf)] |
 | 14:00 - 15:30 | &nbsp; Game Jam Highlights |
 | 15:45 - 16:45 | &nbsp; Closing |
 | 16:45 - 19:00 | &nbsp; Social (At Arcade MTL) |
