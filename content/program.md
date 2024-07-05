@@ -49,7 +49,7 @@ author = ""
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Breakfast |
 | 10:00 - 11:30 | &nbsp; [Rilla and Darren (at TAG)](/details) [[PDF](/Presentations/240613a%20-%20Rilla%20and%20Darren%20-%20The%20Knot%20-%20Situating%20Old%20Games%20(Research).pdf)] |
-| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks (Adrian [[PDF](/Presentations/240613b%20-%20Adrian%20-%20Tracing%20Programming%20Practices%20in%20the%201980ies.pdf)]) |
+| 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks (Adrian [[PDF](/Presentations/240613b%20-%20Adrian%20-%20Tracing%20Programming%20Practices%20in%20the%201980ies.pdf)] and Sophie [[PDF](/Presentations/240613c%20-%20Sophie%20B%C3%A9melmans%20-%20Understanding%20Hardware%20Challenges%20and%20Intricacies%20of%20Creating%20(Games)%20with%20Smaky.pdf)]) |
 | 14:00 - 15:30 | &nbsp; Game Jam |
 | 15:45 - 17:15 | &nbsp; Game Jam |
 | 17:15 - 19:00 | &nbsp; Championship |
