@@ -11,7 +11,7 @@ author = ""
 | 09:00 - 10:00 | &nbsp; Registration, Welcome, Breakfast ([Yann](/organisers/) [[PDF](/Presentations/240610a%20-%20Welcome.pdf)]) |
 | 10:00 - 11:30 | &nbsp; [Jimmy M.](/details/) |
 | 12:00 - 14:00 | &nbsp; Lunch + Lightning Talks |
-| 14:00 - 15:30 | &nbsp; [Alex (Nintendo Mod)](/details/) |
+| 14:00 - 15:30 | &nbsp; [Alex (Nintendo Mod)](/details/) [[PDF](/Presentations/240610c%20-%20Alex%20-%20Handheld%20Homebrew.pdf)] |
 | 15:45 - 17:15 | &nbsp; [Chris](/details/) [[PDF](/Presentations/240610b%20-%20Chris%20-%20Before%20there%20were%20any%20Video%20Games.pdf)] |
 | 17:15 - 19:00 | &nbsp; Championship |
 
