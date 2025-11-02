@@ -117,6 +117,18 @@ preserveTaxonomyNames = true
     weight = 20
 
   [[menu.main]]
+    identifier = "gamekam"
+    name = "Game Jam"
+    url = "/gamejam/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "photos"
+    name = "Photos"
+    url = "/photos/"
+    weight = 20
+
+  [[menu.main]]
     identifier = "registration"
     name = "Registration"
     url = "/registration/"
