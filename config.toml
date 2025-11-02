@@ -140,6 +140,12 @@ preserveTaxonomyNames = true
     url = "/contact/"      
     weight = 40        
 
+  [[menu.main]]
+    identifier = "2025"
+    name = "2025"
+    url = "https://2025.reanimate.school"
+    weight = 40
+
   # [[menu.main]]
   #   identifier = "news"
   #   name = "News"
