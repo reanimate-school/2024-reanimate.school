@@ -117,7 +117,7 @@ preserveTaxonomyNames = true
     weight = 20
 
   [[menu.main]]
-    identifier = "gamekam"
+    identifier = "gamejam"
     name = "Game Jam"
     url = "/gamejam/"
     weight = 20
